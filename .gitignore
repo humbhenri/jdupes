@@ -1,0 +1,10 @@
+
+*.class
+
+*.jar
+
+target/*
+
+*.class
+
+*.jar
