@@ -5,6 +5,4 @@
 
 target/*
 
-*.class
-
-*.jar
+.idea/*
